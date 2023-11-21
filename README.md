@@ -42,4 +42,4 @@ squareroot(num1,iternum)
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming. 
-And the program code is successfully executed.
+Then, the program code is successfully executed.
