@@ -23,11 +23,9 @@ End program.
 
 ## Program:
 ```
-*/
-Program to find the square root for the given number(newton's method) using function.
-Developed by: Ganesh D
-RegisterNumber: 23013987
-*/
+#Program to find the square root for the given number(newton's method) using function.
+#Developed by: Ganesh D
+#RegisterNumber: 23013987
 def squareroot(num1,iternum):
     num2=float(num1)
     for i in range (iternum):
