@@ -23,7 +23,7 @@ End program.
 
 ## Program:
 ```
-/*
+*/
 Program to find the square root for the given number(newton's method) using function.
 Developed by: Ganesh D
 RegisterNumber: 23013987
@@ -36,7 +36,6 @@ def squareroot(num1,iternum):
 num1=int(input())
 iternum=100
 squareroot(num1,iternum)
-
 ```
 
 ## Output:
